@@ -1,0 +1,11 @@
+Webpack in known as a MODULE BUNDLE, which means it take multiple sources files and bundle them together in a single output file
+IT ALLOWS TO SPLIT OUR CODE UP INTO MODULES AND WORKS WELL WITH BABEL
+ WHICH IS GOING TO ALLOWS TO CREATE A MUCH MORE STRUCTURED CODE BASE IN OUR PROJECTS
+
+ Webpack will allows import and export modules and the is going to take all the resulting code and bundle it together in a single file
+
+ //WEBPACK MODULES
+ A MODULE IS A CHUNK OF CODE that we can export form one JS file and then import it into another JS file.
+
+ //WEBPACK DEV SERVER 
+ WE CAN INSTALL WEBPACK-DEV-SERVER TO RUN OUR CODE AND IT WILL TRACK ALL CHANGES, REBUNDLE THE CODE AND SERVE IT INTO THE VIRTUAL FILE 

@@ -1,0 +1,2 @@
+firebase is an alternative to setting up backend structure using tools like MongoDB and a Node.js server.
+in firebase 9 we can take advantage of "tree shaking" to remove any unused code by using a modular bundler, like web pack or ruller

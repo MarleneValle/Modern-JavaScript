@@ -1,0 +1,15 @@
+//BABEL. is going to convert all the modern JS feature into older syntax that os more widely supported and  can be run in old browsers maintaining what the modern code actually does
+//use bleeding edge JS features
+
+//INSTALL BABEL WITH NPM, A PACKAGE MANAGER THAT COME ALONG WITH NODE.JS ( JS ENVIRONMENT THAT LET US RUN JS CODE DIRECTLY IN OUR COMPUTER OR SOME KIND OF SERVICE INSTEAD OF JUST INSIDE THE BROWSER AND NOWHERE ELSE)
+
+//babel convert the code in our computer before it even gets to the browser
+
+///set up babel environment to convert modern modern JS code into CROSS BROWSER COMPLAINT CODE THAT CAN WORK IN PRETTY MUCH EVERY BROWSER
+//1.install Node.js on our computer
+//2. Use npm init to create a package.json file in the project directory
+//3.Use npm to install babel/core & babel/cli packages
+//4.install the babel preset(env) & register it in a file .babelrc
+
+//CONVERTING THE MODERN JS CODE TO A CROSS BROWSER CODE
+///1. inside the work directory node_module/.bin/babel beforeFile.js -o afterFile.js
